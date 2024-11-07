@@ -123,6 +123,26 @@ Salin API key yang didapat
 [Link github](https://github.com/togethercomputer/together-cookbook/blob/main/MultiModal_RAG_with_Nvidia_Investor_Slide_Deck.ipynb)
 [Link colab](https://colab.research.google.com/github/togethercomputer/together-cookbook/blob/main/MultiModal_RAG_with_Nvidia_Investor_Slide_Deck.ipynb)
 
+## Connect
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdISYTA-06cvackIMFyWSTx58HqElKrCH3XOBWdcmgm1_McewL-DdgPGyT86irRFDa_n5b2zsqlsOv-Bb3iKq7iUYSLACplohr0c0H45rqs-djW08k_CeVB0zFCJsp8CINyN42PjA?key=Y2W_a-IgBVeXx2iyoST-Nw)
+
+Untuk bisa menjalankan ipynb ini, kita harus menekan tombol connect yang ada di kanan atas sampai menjadi seperti ini
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsvmmzQvMEGreeOQLkZwDHTtcdmbPfpSAY6IOietKJ2MvVFGrdXQnxih_h4g3U-MAy4kvJqi4zw7Tl6PkwaWfflHUWwWRcVeqEd2QiHbMLH4YgHV4pzuEoJG4tF0D4PbqqqmQM?key=Y2W_a-IgBVeXx2iyoST-Nw)  
+
+## Cara menjalankan cell2nya
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeS3tbdFb8Jxvayi8xeHtMxBeEYsre_yNRMDJTcvyb6ivEh63yIXbBLdvzK4-ObsKxNsnb7gOpZBTBttsz0JfKywXDKAXFpXTpa2Scaf4t8l2oj6G2QQPYxLeCaHy06Y21FFAWxKg?key=Y2W_a-IgBVeXx2iyoST-Nw)
+
+Lakukan salah satu hal ini:
+-  Pencet tombol play di kiri 
+- Ctrl+enter
+ 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc3k3_OREHfhYt_vkcrXSAvK-xL4QjJfWjMjroJZjJmrP08ocTy-PPvdnkg7GP4lkYd50iZ0fYIdnTAuggfIsZtVqJSjXHMUXxRK_6acxjNUgAKz2Le2ndUYeDdpoq77Owl9WUV1w?key=Y2W_a-IgBVeXx2iyoST-Nw)
+
+Jika muncul peringatan ini, “run anyway”
+
 ## Unduh pustaka yang dibutuhkan
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd7QNpDwBgUBW6ePo4MFAMD-qWy6H91krrC8f1GxGCF1IDtVtooYBUhL-rcm6XjmGJ681DzToWkfQ9PnQ9rkxqLRHNgrTEpBzeMzrkLwmU2GNWq7xXgepB9AXz-HLRRMPzRnmQxds-33pCzO6GnrE6z1Pi3?key=Y2W_a-IgBVeXx2iyoST-Nw)
